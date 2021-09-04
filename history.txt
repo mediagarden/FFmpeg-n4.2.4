@@ -1,0 +1,6 @@
+1、提交时间：2021-08-29
+2、修改人：刘丰生
+3、修改内容：
+	1、版本号:FFmpeg-n4.2.4
+	2、增加RTMP对H265的支持(FLV_CODECID_HEVC   = 12)
+	3、@ref:https://blog.csdn.net/smallhujiu/article/details/81703434
